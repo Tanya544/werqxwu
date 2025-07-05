@@ -1,5 +1,3 @@
-# werqxwu
-
 <h1 align="center">Hi there, I'm Tanya 👋</h1>
 
 ## 🛠️ Tech Stack
