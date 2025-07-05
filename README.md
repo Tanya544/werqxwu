@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Tanya 👋</h1>
 
-## 🧑‍💻 About Me
+## About Me
 - Frontend Developer
 - 🛠️ Tech I love working with: React, Next.js, TypeScript, Tailwind, and Git.
 
@@ -16,5 +16,3 @@
 ## 🛠️ Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
